@@ -27,6 +27,8 @@ ECG데이터와 호흡데이터로 수면 단계를 예측할 수 있는 모델 
 주어진 데이터는 5명의 코골이, 심전도, 호흡 데이터가 들어있는 edf 파일
 
 그 중 심전도 데이터만 이용
+</br>
+</br>
 **심전도**
 </br>
 ![image](https://user-images.githubusercontent.com/97713997/193465318-53627ae0-587a-4e7e-9f6b-bec68c7443d0.png)
